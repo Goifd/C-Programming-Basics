@@ -1,0 +1,3 @@
+C:/Users/hehexd/Desktop/Drive/UoM/Programozas Alapjai/Revesz_Janos_Akna/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hehexd/Desktop/Drive/UoM/Programozas Alapjai/Revesz_Janos_Akna/cmake-build-debug/CMakeFiles/Revesz_Janos_Akna.dir
+C:/Users/hehexd/Desktop/Drive/UoM/Programozas Alapjai/Revesz_Janos_Akna/cmake-build-debug/CMakeFiles/rebuild_cache.dir
