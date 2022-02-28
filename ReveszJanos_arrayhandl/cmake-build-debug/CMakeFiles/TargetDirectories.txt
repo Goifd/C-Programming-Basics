@@ -1,0 +1,3 @@
+C:/Users/hehexd/Desktop/Drive/UoM/Programozas Alapjai/ReveszJanos_tombkezeles/cmake-build-debug/CMakeFiles/ReveszJanos_tombkezeles.dir
+C:/Users/hehexd/Desktop/Drive/UoM/Programozas Alapjai/ReveszJanos_tombkezeles/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hehexd/Desktop/Drive/UoM/Programozas Alapjai/ReveszJanos_tombkezeles/cmake-build-debug/CMakeFiles/rebuild_cache.dir
