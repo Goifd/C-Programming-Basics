@@ -1,3 +1,0 @@
-C:/Users/hehexd/Desktop/Drive/UoM/Programozas Alapjai/Gyakorlas1/cmake-build-debug/CMakeFiles/Gyakorlas1.dir
-C:/Users/hehexd/Desktop/Drive/UoM/Programozas Alapjai/Gyakorlas1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/hehexd/Desktop/Drive/UoM/Programozas Alapjai/Gyakorlas1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
